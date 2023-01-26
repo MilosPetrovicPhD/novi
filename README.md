@@ -1,0 +1,2 @@
+# novi
+Ucenje Git-a
